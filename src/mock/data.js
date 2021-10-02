@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `I am enthusiastic junior developer who has years of experience developing on the frontend. I enjoy working with javascript and javascript frontend frameworks like react. I have worked with java and php on the backend and used framewoks like sping and laravel. Most my time has been spent at BYU-Hawaii went I worked a lot with CMSs.`,
+  paragraphOne: `I am an enthusiastic junior developer who has years of experience developing on the frontend. I enjoy working with javascript and javascript frontend frameworks like react. I have worked with java and php on the backend and used frameworks like spring and laravel. Most of my time has been spent at BYU-Hawaii where I worked a lot with CMSs.`,
   paragraphTwo:
     'I enjoy learning new things and working with people who like to push each other to become better. I can put my head down and put in the work in order to deliver what is expected of me.',
   paragraphThree: 'Check out my resume to view all my qualifications!',
@@ -32,7 +32,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'llc.png',
     title: 'LLC Launch Path',
-    info: 'While working at Matinedale-Nolo, one of the projects I helped implement was a new LLC launch path. This was designed to have people use us to create their own LLCs. On this project, I worked with another frontend developer to create the the sites with html, less, and js. Our graphic designer hand us the templates and we turned their templates into pixel perfect, mobile first sites.',
+    info: 'While working at Martindale-Nolo, one of the projects I helped implement was a new LLC launch path. This was designed to have people use us to create their own LLCs. On this project, I worked with another frontend developer to create the sites with html, less, and js. Our graphic designer handed us the templates and we turned their templates into pixel perfect, mobile first sites.',
     info2: '',
     url: 'https://www.nolo.com/lander/entry/llc/llcname',
     repo: '', // if no repo, the button will not show up
@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'fa.png',
     title: 'BYU–H Financial Aid',
-    info: 'When I was a student developer at BYU-Hawaii, we got a project to move a bunch sites to a newer version Drupal and had redesign the sites from scratch. The financial aid site was one of the subdomains that I had to transfer over. We used html and sass to redesign the sites.',
+    info: 'When I was a student developer at BYU-Hawaii, we got a project to move a bunch of sites to a newer version of Drupal and had to redesign the sites from scratch. The financial aid site was one of the subdomains that I had to transfer over. We used html and sass to redesign the sites.',
     info2: '',
     url: 'https://financialaid.byuh.edu/',
     repo: '', // if no repo, the button will not show up
