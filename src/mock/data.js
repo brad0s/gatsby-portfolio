@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'fa.png',
+    img: 'soccer.png',
     title: 'Soccer Stats Webpage',
     info: 'This is a project that I built using create-react-app. I built this site because I love watching the Premier League. This site demonstrates my skills for creating a website from scratch, using react, styling with scss and working with apis.',
     info2: '',
