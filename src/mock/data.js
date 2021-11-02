@@ -40,11 +40,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'fa.png',
-    title: 'BYU–H Financial Aid',
-    info: 'When I was a student developer at BYU-Hawaii, we got a project to move a bunch of sites to a newer version of Drupal and had to redesign the sites from scratch. The financial aid site was one of the subdomains that I had to transfer over. We used html and sass to redesign the sites.',
+    title: 'Soccer Stats Webpage',
+    info: 'This is a project that I built using create-react-app. I built this site because I love watching the Premier League. This site demonstrates my skills for creating a website from scratch, using react, styling with scss and working with apis.',
     info2: '',
-    url: 'https://financialaid.byuh.edu/',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://soccer-stats-lander.herokuapp.com/',
+    repo: 'https://github.com/brad0s/epl-webapp', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
